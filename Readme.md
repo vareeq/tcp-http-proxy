@@ -1,6 +1,6 @@
 # Go TCP HTTP Proxy Server
 
-This project demonstrated proxy-ing tcp connection into a http server and return the response back to tcp
+This project demonstrates how to proxy a TCP connection through an HTTP server and return the response back to the TCP client.
 
 ## Prerequisites
 
